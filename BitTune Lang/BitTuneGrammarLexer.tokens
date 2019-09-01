@@ -1,0 +1,14 @@
+NOTE=1
+RECT=2
+OVAL=3
+LINE=4
+DOTS=5
+CLOSE_BRACKET=6
+COMMENT=7
+INT=8
+WS=9
+'rect('=2
+'oval('=3
+'line('=4
+'dots('=5
+')'=6

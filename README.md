@@ -1,5 +1,5 @@
 # BitTune
-![BitTuneLogo](https://gitlab.cas.mcmaster.ca/cs4tb3-winter19/group-11-final-project/raw/master/Assets/BitTune_Logo.png)
+![BitTuneLogo](https://raw.githubusercontent.com/BenMiller3/BitTune/master/Assets/BitTune_Logo.png)
 
 BitTune is a Python application that transforms pictures into music.
 It also is a language, that can transform musical notes written in the BitTune Langauge into BitTune Image files which can be loaded, saved, and played by the BitTune application.
@@ -38,9 +38,9 @@ BitTune has two different language components which make up the application:
 2. A language that translates notes into pictures
 
 ## Screenshots
-![Screenshot_CustomDrawing](https://gitlab.cas.mcmaster.ca/cs4tb3-winter19/group-11-final-project/raw/master/Assets/Screenshot_1.png)
+![Screenshot_CustomDrawing](https://raw.githubusercontent.com/BenMiller3/BitTune/master/Assets/Screenshot_1.png)
 
-![Screenshot_GeneratedPicture](https://gitlab.cas.mcmaster.ca/cs4tb3-winter19/group-11-final-project/raw/master/Assets/ScreenShot_2.png)
+![Screenshot_GeneratedPicture](https://raw.githubusercontent.com/BenMiller3/BitTune/master/Assets/ScreenShot_2.png)
 
 ## How to Build
 In order to build BitTune, you will need to have installed Python 3.
